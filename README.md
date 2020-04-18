@@ -1,5 +1,5 @@
 A small demo, how to use mssql package in nodejs if we are using sql server database.
-No UI or html form to save data in database. Cpvers how to get data, insert data and bulk insert in sql server database.
+No UI or html form to save data in database. Covers how to get data, insert data and bulk insert in sql server database.
 Saved sql in .env configuration file.
 This demo is for my blog article.
 
